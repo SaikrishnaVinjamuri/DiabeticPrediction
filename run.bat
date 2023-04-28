@@ -1,0 +1,2 @@
+python DiabetesPrediction.py
+pause
