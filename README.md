@@ -1,6 +1,6 @@
 # DiabeticPrediction using firefly algorithm
-developed using pima indian diabetes data set
+firefly is a natural inspired meta-heuristic algorithm used in continous optimisation problems.It selects the best features which helps in construction of optimal models
 
-firefly is a natural inspired meta-heuristic algorithm used in continous optimisation problems
+used pima indian diabetes data set
 
-[DiabetesDetection.pdf](https://github.com/SaikrishnaVinjamuri/DiabeticPrediction/files/11351581/DiabetesDetection.pdf)
+
