@@ -3,4 +3,8 @@ firefly is a natural inspired meta-heuristic algorithm used in continous optimis
 
 used pima indian diabetes data set
 
+![DiabetesDetection_page-0001](https://github.com/SaikrishnaVinjamuri/DiabeticPrediction/assets/70502940/dffe9e69-99eb-4455-9663-eec598965786)
+
+
+
 
